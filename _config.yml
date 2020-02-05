@@ -1,5 +1,5 @@
 languages: ["ja"]
-theme: jekyll-theme-cayman
+theme: jekyll-theme-leap-day
 defaultLang: ja
 languageNames:
   ja: Japanese
