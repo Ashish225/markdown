@@ -1,2 +1,5 @@
+languages: ["ja"]
 theme: jekyll-theme-time-machine
 defaultLang: ja
+languageNames:
+  ja: Japanese
